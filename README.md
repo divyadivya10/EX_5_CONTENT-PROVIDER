@@ -1,5 +1,9 @@
 # Ex.No:5 Create Your Own Content Providers to get Contacts details.
+Developed by: Divya R
 
+Registeration Number :212222040040
+
+Date:16/9/24
 
 ## AIM:
 
@@ -29,8 +33,6 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the contact name and phone number using content providers.
-Developed by: Divya R
-Registeration Number :212222040040
 */
 ```
 ## Mainactivity.java:
